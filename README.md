@@ -5,8 +5,8 @@ Pushing new brawl stars assets as they released!
 * All assets here: [(click here!)](https://github.com/tailsjs/brawl-stars-assets)
 
 ## Current data
-* Current version: 65.196.1
-* Current SHA: 5322730f03620d4a8bfe36ed0c11f2428f289ef3
+* Current version: 65.179.1
+* Current SHA: 3b2df903bf72be1e4cfb695e48f22567682e7883
 
 ## Supercell Fan Content Policy
 Sounds, CSVs, images and all other assets from the Brawl Stars app. Created for content creators and other fan content in line with Supercell's fan content policy (http://supercell.com/en/fan-content-policy/)
